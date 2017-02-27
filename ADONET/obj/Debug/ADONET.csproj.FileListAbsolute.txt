@@ -1,0 +1,9 @@
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.csprojResolveAssemblyReference.cache
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.Form1.resources
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.Properties.Resources.resources
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.csproj.GenerateResource.Cache
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\hahay\Documents\GitHub\ADONET\ADONET\obj\Debug\ADONET.pdb
