@@ -28,7 +28,7 @@ namespace ADONET
 
             //3. Datasource호출을 위한 쿼리 구성
             SqlCommand cmd = conn.CreateCommand();
-            cmd.CommandText = "SELECT top 10 * FROM [Front].[LogCodes]";
+            cmd.CommandText = "SELECT top 100 * FROM [Front].[LogCodes]";
 
             //4. DataAdapter를 통한 Connected Ojbect연결
             da.SelectCommand = cmd;
